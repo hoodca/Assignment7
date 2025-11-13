@@ -21,7 +21,7 @@ This Python script reads a CSV file containing daily COVID-19 data for U.S. stat
 
 ```python
 file_path = 'C:/path/to/us_states_covid19_daily.csv'
-
+'''
 Run the script:
 python covid_state_deaths.py
 Outputs are written in the same directory (or the path specified in the script):
